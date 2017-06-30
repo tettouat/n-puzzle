@@ -1,0 +1,4 @@
+#the size can't be lower than 3!
+2
+1 2
+3 0
